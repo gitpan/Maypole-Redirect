@@ -1,0 +1,6 @@
+Revision history for Perl extension Maypole::Redirect.
+
+0.01 20040905
+  - Created and released as a quick hack without much testing
+    outside of my webapp.
+

@@ -1,0 +1,29 @@
+Maypole::Redirect version 0.01
+==================================
+
+This is a module adding HTTP redirect
+and file serving support (badly) to Maypole.
+
+It's released as a quick hack to get things going as
+I promised some people some code.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires Maypole (duh) and Apache::Request. If you're
+using Maypole with Jellybean, I'd like to hear if it works for you
+too.
+
+COPYRIGHT AND LICENCE
+
+This module may be used under the same terms as Perl itself.
+
+Copyright (C) 2004 Max Maischein <corion@cpan.org>

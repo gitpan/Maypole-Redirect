@@ -1,0 +1,12 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Maypole-Redirect
+version:      0.01
+version_from: lib/Maypole/Redirect.pm
+installdirs:  site
+requires:
+    Apache::Request:               0
+    Maypole:                       1.7
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.17
